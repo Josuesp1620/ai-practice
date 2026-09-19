@@ -1,0 +1,11 @@
+.env
+.venv/
+__pycache__/
+*.db
+*.pdf
+!**/ejemplos/*.pdf
+.fastembed_cache/
+
+# El material de redes se queda en local: imágenes, videos y locución
+*/assets/
+_referencia-voz/
